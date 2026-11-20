@@ -1,8 +1,8 @@
-# Report estratto da Agente B (Ciclo 396)
+# Report estratto da Agente B (Ciclo 397)
 
  └──────────────────────────────────────────────────────────────────┘
 
-   [04:27 PM]
+   [04:31 PM]
    Sei AGENTE B. Leggi .bus/TASK_A_TO_B.md, implementa tutto il codice richiesto, esegui i
    test di verifica, scrivi il report dettagliato in .bus/REPORT_B.md, fai git add -A && git
    commit -m 'feat: step completato' && git push origin main e come ultima azione esegui:
@@ -17,9 +17,9 @@
   ╰──────────────────────────────────────────────────────────────────────────────────────────╯   █
                                                                                             △▽   █
  ╭──────────────────────────────────────────────────────────────────────────────────────────────╮
- │ Build your app with OnSpace AI                                                 Ad [Report 7] │
- │ Automate your development workflow and build iOS, Android, and web projects with OnSpac…     │
- │  Start Building  onspaceai.sjv.io                                                            │
+ │ Ricerca web senza sprecare token                                               Ad [Report 3] │
+ │ Cerca con Exa e risparmia fino al 95% sui costi dei token. Ricevi $20 di crediti API.        │
+ │  Prova Exa  dashboard.exa.ai                                                                 │
  ╰──────────────────────────────────────────────────────────────────────────────────────────────╯
 ╭────────────────────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                                │
