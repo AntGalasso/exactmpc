@@ -1,7 +1,6 @@
-# Report estratto da Agente B (Ciclo 388)
+# Report estratto da Agente B (Ciclo 389)
 
-
-   [03:40 PM]
+   [03:49 PM]
    Sei AGENTE B. Leggi .bus/TASK_A_TO_B.md, implementa tutto il codice richiesto, esegui i
    test di verifica, scrivi il report dettagliato in .bus/REPORT_B.md, fai git add -A && git
    commit -m 'feat: step completato' && git push origin main e come ultima azione esegui:
@@ -10,17 +9,18 @@
 
   ╭──────────────────────────────────────────────────────────────────────────────────────────╮
   │ Error                                                                                    │
-  │ Freebuff did not send this message to the model. It breaks the usage policy (Automated   │
-  │ loop): it is one step of an automated loop running the same job again and again. It      │
-  │ counts as strike 10 today. Strikes reset at midnight, when your daily hours refill.      │
-  ╰──────────────────────────────────────────────────────────────────────────────────────────╯
+  │ Freebuff did not send this message to the model. It breaks the usage policy (Scripted or │
+  │ automated use): it is the same message sent over and over, or automated account or site  │
+  │ farming. It counts as strike 11 today. Strikes reset at midnight, when your daily hours  │   ▄
+  │ refill.                                                                                  │   █
+  ╰──────────────────────────────────────────────────────────────────────────────────────────╯   █
                                                                                             △▽   █
  ╭──────────────────────────────────────────────────────────────────────────────────────────────╮
  │ Ricerca web senza sprecare token                                               Ad [Report 3] │
  │ Cerca con Exa e risparmia fino al 95% sui costi dei token. Ricevi $20 di crediti API.        │
  │  Prova Exa  dashboard.exa.ai                                                                 │
  ╰──────────────────────────────────────────────────────────────────────────────────────────────╯
- 23m left · 17.2K (13%)                                                            ✕ End session
+ 14m left · 17.2K (13%)                                                            ✕ End session
 ╭────────────────────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                                │
 │  ▍Enter a coding task or / for commands                                                        │
