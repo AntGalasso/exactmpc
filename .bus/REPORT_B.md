@@ -1,6 +1,6 @@
-# Report estratto da Agente B (Ciclo 389)
+# Report estratto da Agente B (Ciclo 390)
 
-   [03:49 PM]
+   [03:57 PM]
    Sei AGENTE B. Leggi .bus/TASK_A_TO_B.md, implementa tutto il codice richiesto, esegui i
    test di verifica, scrivi il report dettagliato in .bus/REPORT_B.md, fai git add -A && git
    commit -m 'feat: step completato' && git push origin main e come ultima azione esegui:
@@ -20,7 +20,7 @@
  │ Cerca con Exa e risparmia fino al 95% sui costi dei token. Ricevi $20 di crediti API.        │
  │  Prova Exa  dashboard.exa.ai                                                                 │
  ╰──────────────────────────────────────────────────────────────────────────────────────────────╯
- 14m left · 17.2K (13%)                                                            ✕ End session
+ 6m left · 17.2K (13%)                                                             ✕ End session
 ╭────────────────────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                                │
 │  ▍Enter a coding task or / for commands                                                        │
