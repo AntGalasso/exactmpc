@@ -66,7 +66,7 @@ class ExactQP:
             c = cho_factor(P)
         except np.linalg.LinAlgError as err:
             raise ValueError(
-                "P is not positive definite. Use exactmpc.exact.singular (STUB) for P >= 0, "
+                "P is not positive definite. Use exactmpc.exact.singular for P >= 0, "
                 "or add a ridge."
             ) from err
         self.Pinv = cho_solve(c, np.eye(self.n))
